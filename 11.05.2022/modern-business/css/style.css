@@ -1,0 +1,74 @@
+.head-text-color {
+  color: white !important;
+}
+
+.head-content {
+  margin-top: 50px;
+  padding-right: 50px;
+}
+
+.heading-ph-cnt {
+  margin-top: 90px;
+}
+
+.heading-photo {
+  margin-bottom: 60px;
+}
+
+.card {
+  border: none;
+}
+
+.card-icon {
+  width: 45px;
+  height: 5vh;
+  background-color: #2275c7;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 17px;
+}
+
+.card-icon i {
+  color: white;
+  font-size: 25px;
+}
+
+#about-blog {
+  background-color: #eceef1;
+}
+
+#about-blog .container .row .about-box {
+  height: 40vh;
+  padding: 60px 250px;
+}
+
+#about-blog .container .row .about-box .tom-ato .tom-photo img {
+  border-radius: 50%;
+}
+
+#form-blog .row .card-body {
+  position: relative;
+}
+
+#form-blog .row .card-body .card-datetime {
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
+
+#form-blog .container .mini-content {
+  padding: 50px 300px;
+}
+
+footer ul li {
+  position: relative;
+}
+
+footer ul li::after {
+  content: ".";
+  position: absolute;
+  color: white;
+  right: 0;
+  top: 5px;
+}
+/*# sourceMappingURL=style.css.map */
